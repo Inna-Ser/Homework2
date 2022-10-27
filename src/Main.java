@@ -19,5 +19,8 @@ public class Main {
         System.out.println(dog);
         System.out.println(cat);
         System.out.println(paper);
+        var friend = 19;
+        friend = friend * 2;
+        System.out.println(friend);
     }
 }
