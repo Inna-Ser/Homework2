@@ -25,5 +25,7 @@ public class Main {
         System.out.println(friend);
         friend = friend / 7;
         System.out.println(friend);
+        var frog = 3.5;
+        System.out.println(frog);
     }
 }
