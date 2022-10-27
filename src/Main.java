@@ -7,5 +7,22 @@ public class Main {
         System.out.println(dog);
         System.out.println(cat);
         System.out.println(paper);
+        dog = dog + 4;
+        cat = cat + 4;
+        paper = paper + 4;
+        System.out.println(dog);
+        System.out.println(cat);
+        System.out.println(paper);
+        dog = dog - (int) 3.5;
+        cat = cat - (int) 1.6;
+        paper = paper - 7639;
+        System.out.println(dog);
+        System.out.println(cat);
+        System.out.println(paper);
+        var friend = 19;
+        System.out.println(friend);
+        friend = friend * 2;
+        System.out.println(friend);
+
     }
 }
